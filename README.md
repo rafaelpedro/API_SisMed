@@ -1,6 +1,6 @@
-# Sispet API
+# Sismed API
 
-## Sistema de gestão de petshops
+## Sistema de gestão de agenda de consultórios médicos
 
 
 Sistema criado para estudo da linguagem java com Spring Boot
